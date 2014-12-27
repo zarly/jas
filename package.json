@@ -1,6 +1,6 @@
 {
   "name": "jas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Preprocessor for JavaScript",
   "main": "src/main.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "license": "Apache-License-2.0",
   "bugs": {
     "url": "https://github.com/zarly/jas/issues"
+  },
+  "dependencies": {
+    "optimist": "~0.6.1"
   }
 }
