@@ -1,0 +1,24 @@
+{
+  "name": "jas",
+  "version": "0.1.0",
+  "description": "Preprocessor for JavaScript",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zarly/jas.git"
+  },
+  "keywords": [
+    "javascript",
+    "preprocessor",
+    "import",
+    "require"
+  ],
+  "author": "Alex Abramov",
+  "license": "Apache-License-2.0",
+  "bugs": {
+    "url": "https://github.com/zarly/jas/issues"
+  }
+}
