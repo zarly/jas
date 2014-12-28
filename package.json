@@ -1,6 +1,6 @@
 {
   "name": "jas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Preprocessor for JavaScript",
   "main": "src/main.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "url": "https://github.com/zarly/jas/issues"
   },
   "dependencies": {
-    "optimist": "~0.6.1"
+    "optimist": "~0.6.1",
+    "watch": "~0.13.0"
   }
 }
