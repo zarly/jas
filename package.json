@@ -1,10 +1,14 @@
 {
   "name": "jas",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Preprocessor for JavaScript",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "jas": "./bin/jas"
   },
   "repository": {
     "type": "git",
