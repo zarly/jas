@@ -1,6 +1,6 @@
 {
   "name": "jas",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Preprocessor for JavaScript",
   "main": "src/main.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "optimist": "~0.6.1",
-    "watch": "~0.13.0"
+    "watch": "~0.13.0",
+    "async": "~0.9.0"
   }
 }

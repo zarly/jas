@@ -1,0 +1,7 @@
+// compile it by "jas -c hello.jas"
+
+console.log('Some code before');
+
+@import ../src/main.js;
+
+console.log('Hello world!!!');
